@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BattleshipStateTracker/v15
+/BattleshipController/bin
+/BattleshipController/obj
+/BattleshipStateTracker/bin
+/BattleshipStateTracker/obj
